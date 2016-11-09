@@ -51,6 +51,7 @@ namespace CodedUITestProject1
         /// <summary>
         ///Gets or sets the test context which provides
         ///information about and functionality for the current test run.
+        /// Line added for testing PR
         ///</summary>
         public TestContext TestContext
         {

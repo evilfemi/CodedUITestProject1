@@ -66,5 +66,12 @@ namespace CodedUITestProject1
             }
         }
         private TestContext testContextInstance;
+
+        /// <summary>
+        ///Gets or sets the test context which provides
+        ///information about and functionality for the current test run.
+        /// Line added for testing PR
+        /// added another line for test-branch
+        ///</summary>
     }
 }

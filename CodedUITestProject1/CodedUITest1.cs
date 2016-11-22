@@ -20,6 +20,7 @@ namespace CodedUITestProject1
     {
         public CodedUITest1()
         {
+            Console.WriteLine("Test methods for codedUI");
         }
 
         [TestMethod]
